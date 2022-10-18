@@ -1,0 +1,8 @@
+train: /data/Hsinggu/PyTorch_YOLOv4-master/2022_train.txt
+val: /data/Hsinggu/PyTorch_YOLOv4-master/2022_val.txt
+test: /data/Hsinggu/PyTorch_YOLOv4-master/2022_test.txt 
+
+# number of classes
+nc: 1
+names: [ 'aircraft' ]
+
